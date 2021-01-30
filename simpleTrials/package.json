@@ -1,0 +1,11 @@
+{
+  "name": "simpletrials",
+  "version": "1.0.0",
+  "description": "A repo to trial simple javascript game ideas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node spec/test.js"
+  },
+  "author": "Zach McCain",
+  "license": "ISC"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kidgametrial",
+  "version": "1.0.0",
+  "description": "A working directory to trial game ideas for my children.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node spec/test.js"
+  },
+  "author": "Zach McCain",
+  "license": "ISC"
+}

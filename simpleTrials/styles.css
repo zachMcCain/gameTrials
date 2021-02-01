@@ -1,5 +1,10 @@
-body {
-  background-image: url('background.jpg');
+#gameContainer {
+  background-image: url('assets/background.jpg');
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
+  height: 600px;
+}
+
+#pixelCat {
+  height: 90px;
 }
